@@ -6,7 +6,7 @@ real 0m0.273s
 user 0m0.244s
 sys 0m0.028s
 
-time python compute__numpy.py # python 3.5 with numpy via conda-forge
+time python compute_numpy.py # python 3.5 with numpy via conda-forge
 
 real 0m0.207s
 user 0m0.192s
